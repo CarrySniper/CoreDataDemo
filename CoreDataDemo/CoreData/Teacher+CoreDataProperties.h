@@ -1,19 +1,19 @@
 //
-//  Student+CoreDataProperties.h
+//  Teacher+CoreDataProperties.h
 //  
 //
 //  Created by CJQ on 2018/10/8.
 //
 //
 
-#import "Student+CoreDataClass.h"
+#import "Teacher+CoreDataClass.h"
 
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Student (CoreDataProperties)
+@interface Teacher (CoreDataProperties)
 
-+ (NSFetchRequest<Student *> *)fetchRequest;
++ (NSFetchRequest<Teacher *> *)fetchRequest;
 
 @property (nonatomic) int16_t id;
 @property (nullable, nonatomic, copy) NSString *name;

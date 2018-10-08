@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CoreDataDemo/CoreData/Teacher+CoreDataProperties.h">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataDemo/CoreData/Teacher+CoreDataClass.h">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataDemo/CoreData/Teacher+CoreDataClass.m">
+   </FileRef>
+   <FileRef
+      location = "group:CoreDataDemo/CoreData/Teacher+CoreDataProperties.m">
+   </FileRef>
+   <FileRef
       location = "group:CoreDataDemo/CoreData/Student+CoreDataProperties.h">
    </FileRef>
    <FileRef

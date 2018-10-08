@@ -1,5 +1,5 @@
 //
-//  Student+CoreDataClass.h
+//  Teacher+CoreDataClass.h
 //  
 //
 //  Created by CJQ on 2018/10/8.
@@ -11,10 +11,10 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Student : NSManagedObject
+@interface Teacher : NSManagedObject
 
 @end
 
 NS_ASSUME_NONNULL_END
 
-#import "Student+CoreDataProperties.h"
+#import "Teacher+CoreDataProperties.h"

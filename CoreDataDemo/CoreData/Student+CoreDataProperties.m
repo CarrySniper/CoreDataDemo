@@ -2,7 +2,7 @@
 //  Student+CoreDataProperties.m
 //  
 //
-//  Created by CJQ on 2018/9/30.
+//  Created by CJQ on 2018/10/8.
 //
 //
 
